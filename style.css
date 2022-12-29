@@ -159,7 +159,7 @@ button:hover{
     height: 2rem;
     font-size: 10pt;
     border-radius: 5px;
-    border: 1px solid rgba(226, 226, 226, 0.521);
+    border: 0;
     cursor: pointer;
 
 }
@@ -270,7 +270,7 @@ button:hover{
 }
 .header-botton nav
 {
-    width: max-containt;
+    width: 100%;
     height: 3rem;
     display: flex;
     justify-content: space-evenly;
