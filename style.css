@@ -174,7 +174,7 @@ button:hover{
 .slider div
 {
     display: flex;
-    width:500%;
+    width:100%;
     height: max-content;
     float: left;
     animation: slider 10s linear infinite;
