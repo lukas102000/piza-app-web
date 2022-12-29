@@ -175,6 +175,8 @@ button:hover{
 {
     display: flex;
     width:100%;
+    height: 20rem;
+    background-color: aqua;
     height: max-content;
     float: left;
     animation: slider 10s linear infinite;
@@ -183,7 +185,7 @@ button:hover{
 .slider div img
 {
     max-width: 100%;
-    height: 50vw;
+    height: 10rem;
     border-radius: 5px;
     float: left;
     transition: 0.5s;
